@@ -61,3 +61,34 @@ click here to download dataset
  Interview Questions:
  What You'll Learn :  Binary classification, evaluation metrics, sigmoid curve.
 
+Task 5: Decision Trees and Random Forests
+ Objective: Learn tree-based models for classification & regression. 
+Tools:  Scikit-learn, Graphviz
+ Hints/Mini Guide:
+ 1.Train a Decision Tree Classifier and visualize the tree.
+ 2.Analyze overfitting and control tree depth.
+ 3.Train a Random Forest and compare accuracy.
+ 4.Interpret feature importances.
+ 5.Evaluate using cross-validation.
+ Dataset: You can use any dataset relevant to the task, e.g., Heart Disease Dataset
+ link to download:  
+click here to download dataset
+ Interview Questions:
+ What You'll Learn : Decision trees, ensemble learning, feature importance
+
+Task 6: 
+
+K-Nearest Neighbors (KNN) Classification
+ Objective: Understand and implement KNN for classification problems.
+ Tools:  Scikit-learn, Pandas, Matplotlib
+ Hints/Mini Guide:
+ 1.Choose a classification dataset and normalize features.
+ 2.Use KNeighborsClassifier from sklearn.
+ 3.Experiment with different values of K.
+ 4.Evaluate model using accuracy, confusion matrix.
+ 5.Visualize decision boundaries.
+ Dataset: You can use any dataset relevant to the task, e.g., Iris Dataset
+ link to download:  
+click here to download dataset
+ Interview Questions:
+ What You'll Learn :Instance-based learning, Euclidean distance, K selection
