@@ -38,10 +38,7 @@ Tools:  Scikit-learn, Pandas, Matplotlib
  4.Evaluate model using MAE, MSE, R².
  5.Plot regression line and interpret coefficients.
  Dataset: You can use any dataset relevant to the task, e.g., House Price Prediction Dataset
- link to download:  
-click here to download dataset
- Interview Questions:
- What You'll Learn :  Regression modeling, evaluation metrics, model interpretation.
+ 
 
 
 Task 4: 
@@ -57,9 +54,7 @@ Tools:  Scikit-learn, Pandas, Matplotlib
  5.Tune threshold and explain sigmoid function.
  Dataset: You can use any dataset relevant to the task, e.g., Breast Cancer Wisconsin Dataset.
  link to download:  
-click here to download dataset
- Interview Questions:
- What You'll Learn :  Binary classification, evaluation metrics, sigmoid curve.
+
 
 Task 5: Decision Trees and Random Forests
  Objective: Learn tree-based models for classification & regression. 
@@ -71,11 +66,7 @@ Tools:  Scikit-learn, Graphviz
  4.Interpret feature importances.
  5.Evaluate using cross-validation.
  Dataset: You can use any dataset relevant to the task, e.g., Heart Disease Dataset
- link to download:  
-click here to download dataset
- Interview Questions:
- What You'll Learn : Decision trees, ensemble learning, feature importance
-
+ 
 Task 6: 
 
 K-Nearest Neighbors (KNN) Classification
@@ -88,7 +79,18 @@ K-Nearest Neighbors (KNN) Classification
  4.Evaluate model using accuracy, confusion matrix.
  5.Visualize decision boundaries.
  Dataset: You can use any dataset relevant to the task, e.g., Iris Dataset
- link to download:  
-click here to download dataset
- Interview Questions:
- What You'll Learn :Instance-based learning, Euclidean distance, K selection
+ 
+
+
+Task 7: 
+Support Vector Machines (SVM)
+ Objective: Use SVMs for linear and non-linear classification.
+ Tools:  Scikit-learn, NumPy, Matplotlib
+ Hints/Mini Guide:
+ 1.Load and prepare a dataset for binary classification.
+ 2.Train an SVM with linear and RBF kernel.
+ 3.Visualize decision boundary using 2D data.
+ 4.Tune hyperparameters like C and gamma.
+ 5.Use cross-validation to evaluate performance.
+ Dataset: You can use any dataset relevant to the task, e.g., Breast Cancer Dataset
+ 
